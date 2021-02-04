@@ -1,0 +1,7 @@
+{
+    "authMech": "long-term",
+    "credentials": {
+        "username": "password"
+    },
+    debugLevel: "ALL"
+}

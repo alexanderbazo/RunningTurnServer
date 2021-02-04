@@ -1,0 +1,15 @@
+{
+    "name": "running-turn-server",
+    "version": "0.0.1",
+    "description": "Turn Server for Audio Communication in CoRunning-App",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "node-turn": "0.0.6"
+    }
+}
