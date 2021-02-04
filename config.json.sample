@@ -3,5 +3,5 @@
     "credentials": {
         "username": "password"
     },
-    debugLevel: "ALL"
+    "debugLevel": "ALL"
 }
